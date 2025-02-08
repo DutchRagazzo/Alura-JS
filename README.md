@@ -1,1 +1,1 @@
-Esses arquivos são referentes ao projeto do Curso de Lógica de Programação com JS da Alura, eu pesquisei mais coisas e incrementei mais coisas
+Esses arquivos são referentes ao projeto do Curso de Lógica de Programação com JS da Alura, eu pesquisei mais coisas e incrementei mais coisas. Eu programei somente o JAVASCRIPT dessas páginas e não o HTML e CSS
